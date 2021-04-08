@@ -2,21 +2,21 @@
   <PropertyGroup>
     <Description>Lightweight HL7 2.x library compatible with .Net Standard and .Net Core</Description>
     <Copyright>(c) Efferent Health, LLC</Copyright>
-    <VersionPrefix>2.24.0</VersionPrefix>
+    <VersionPrefix>2.24.1</VersionPrefix>
     <TargetFrameworks>netstandard1.3;netstandard1.6;netstandard2.0</TargetFrameworks>
-    <AssemblyName>HL7-dotnetcore</AssemblyName>
-    <PackageId>HL7-dotnetcore</PackageId>
+    <AssemblyName>HL7-dotnetcore-Fork-Garcia</AssemblyName>
+    <PackageId>HL7-dotnetcore-Fork-Garcia</PackageId>
     <PackageTags>hl7;dotnetcore</PackageTags>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/Efferent-Health/HL7-dotnetcore</RepositoryUrl>
+    <RepositoryUrl>https://github.com/GG-Garcia/HL7-dotnetcore</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup>
     <PackageTags>hl7 dotnetcore hl7-parser hl7-writer</PackageTags>
-    <PackageProjectUrl>https://github.com/Efferent-Health/HL7-dotnetcore</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/GG-Garcia/HL7-dotnetcore</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/Efferent-Health/HL7-dotnetcore</RepositoryUrl>
+    <RepositoryUrl>https://github.com/GG-Garcia/HL7-dotnetcore</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup>
